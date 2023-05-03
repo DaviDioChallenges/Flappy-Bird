@@ -1,2 +1,2 @@
 # Dio-Flappy-Bird
- Simple Flapply Bird Clone
+ Simple Flappy Bird Clone
